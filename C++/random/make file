@@ -1,0 +1,2 @@
+aayush: driver.c RAM.c
+	gcc -o aayush driver.c RAM.c
